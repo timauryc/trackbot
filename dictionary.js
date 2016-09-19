@@ -1,5 +1,5 @@
 var dictionary = {
-	'str_helloWorld'
+	'str_helloWorld':'Hellooo world'
 }
 
 module.exports = {
