@@ -2,7 +2,7 @@ var dictionary = {
 	'str_startConversation':'Hello what you wanna do?',
 	'str_doNothing':'Nothing by the moment',
 	'str_doNothingResponse':'Its ok, no problem :)',
-	'str_getTracking':'track a courier',
+	'str_getTracking':'Track a courier',
 	'str_chooseCarrier':'Please, choose a courier',
 	'str_carrierFedex':'Fedex',
 	'str_carrierDHL':'DHL',
