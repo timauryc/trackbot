@@ -11,6 +11,10 @@ app.use(express.static('public'));
 
 global.waitingForTracking = false;
 global.trackingData = [];
+global.resetBotStatus = function(){
+  waitingForTracking = false;
+  trackingData = [];  
+}
 
 app.get('/', function(req, res) {
 	res.send('hello world');
