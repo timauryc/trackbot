@@ -9,7 +9,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.json({ verify: verifyRequestSignature }));
 app.use(express.static('public'));
 
-global.waitingforTracking = false;
+global.waitingForTracking = false;
 global.trackingData = [];
 
 app.get('/', function(req, res) {
