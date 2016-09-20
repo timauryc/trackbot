@@ -6,7 +6,7 @@ var dictionary = {
 	'str_chooseCarrier':'Please, choose a carrier',
 	'str_carrierFedex':'Fedex',
 	'str_carrierUPS':'UPS',
-	'str_carrierTNT':'TNT',
+	'str_carrierDHL':'DHL',
 	'str_askTrackingNumber':'Please write the trakking number (Remember to use no spaces between the digits)',
 }
 
