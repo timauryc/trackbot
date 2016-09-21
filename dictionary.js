@@ -1,5 +1,6 @@
 var dictionary = {
-	'str_startConversation':'Hello what you wanna do?',
+	'str_useInvitationBegin':'Hi, I\'m trackbot. I can help you track your packages. Please select your courier',
+	'str_useInvitationRepeat':'Would you like to track another package? If so, please select your courier',
 	'str_doNothing':'Nothing',
 	'str_doNothingResponse':'Its ok, no problem :)',
 	'str_getTracking':'Track a courier',
