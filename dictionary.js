@@ -8,7 +8,7 @@ var dictionary = {
 	'str_carrierFedex':'FedEx',
 	'str_carrierUPS':'UPS',
 	'str_carrierDHL':'DHL',
-	'str_askTrackingNumber':'Please enter the tracking number without',
+	'str_askTrackingNumber':'Please enter the tracking number (without spaces).',
 	'str_trackingNotFound':'No tracking information was found, please verify the information you gave me.',
 }
 
