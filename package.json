@@ -1,7 +1,7 @@
 {
-  "name": "fedex-track-bot",
+  "name": "trackbot",
   "version": "1.0.0",
-  "description": "sample bot for package trakking purposes",
+  "description": "Facebook messenger bot for traking shipments",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "Carlos Timaury (timaury@gmail.com)",
+  "author": "Nisar Khan (nisarkhan@gmail.com)",
   "license": "ISC",
   "dependencies": {
     "async": "^2.0.1",
