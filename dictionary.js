@@ -5,7 +5,7 @@ var dictionary = {
 	'str_doNothingResponse':'Its ok, no problem :)',
 	'str_getTracking':'Track a courier',
 	'str_chooseCarrier':'Please, choose a carrier',
-	'str_carrierFedex':'Fedex',
+	'str_carrierFedex':'FedEx',
 	'str_carrierUPS':'UPS',
 	'str_carrierDHL':'DHL',
 	'str_askTrackingNumber':'Please enter the tracking number without',
