@@ -10,7 +10,7 @@ var dictionary = {
 	'str_carrierDHL':'DHL',
 	'str_carrierTNT':'TNT',
 	'str_askTrackingNumber':'Please enter the tracking number (without spaces).',
-	'str_trackingNotFound':'No tracking information was found, please verify the information you gave me.',
+	'str_errorFound':'The following issue was found:',
 }
 
 module.exports = {
