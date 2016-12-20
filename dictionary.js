@@ -11,6 +11,7 @@ var dictionary = {
 	'str_carrierTNT':'TNT',
 	'str_askTrackingNumber':'Please enter the tracking number (without spaces).',
 	'str_errorFound':'The following issue was found:',
+	'str_trackingNotFound':'No tracking information was found, please verify the information you gave me.' 
 }
 
 module.exports = {
