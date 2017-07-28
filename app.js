@@ -55,7 +55,3 @@ function verifyRequestSignature(req, res, buf) {
     }
   }
 }
-
-function deleteLater(){
-
-}
